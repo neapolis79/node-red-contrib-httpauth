@@ -1,23 +1,23 @@
 {
-  "_from": "git+https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
+  "_from": "git+https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
   "_id": "node-red-contrib-httpauth@1.0.12",
   "_inBundle": false,
   "_location": "/node-red-contrib-httpauth",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
-    "rawSpec": "https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
-    "saveSpec": "git+https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
-    "fetchSpec": "https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
+    "raw": "https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
+    "rawSpec": "https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
+    "saveSpec": "git+https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
+    "fetchSpec": "https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/pjalbuquerque/node-red-contrib-httpauth.git#64cec192cb907141387abdc6855c1a7c7ddcca5e",
-  "_spec": "https://github.com/pjalbuquerque/node-red-contrib-httpauth.git",
+  "_resolved": "git+https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git#64cec192cb907141387abdc6855c1a7c7ddcca5e",
+  "_spec": "https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git",
   "_where": "/Users/Paulo/.node-red",
   "author": {
     "name": "Endemecio Santana"
@@ -41,7 +41,7 @@
     "digest"
   ],
   "license": "GPL-2.0",
-  "name": "node-red-contrib-httpauth",
+  "name": "node-red-contrib-httpauth-multiple",
   "node-red": {
     "nodes": {
       "node-red-contrib-httpauth": "nodes/http-auth.js",
@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/endemecio02/node-red-contrib-httpauth.git"
+    "url": "git+https://github.com/neapolis79/node-red-contrib-httpauth-multiple.git"
   },
   "version": "1.0.12",
   "warnings": [
